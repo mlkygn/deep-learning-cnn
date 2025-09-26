@@ -42,3 +42,7 @@ Bu proje ile CNN tabanlı bir derin öğrenme mimarisinin çok sınıflı görü
 Daha derin bir CNN mimarisi (ör. ResNet, EfficientNet),
 Hiperparametre optimizasyonu (Keras Tuner, Optuna),
 Daha fazla veri artırma teknikleri kullanılarak performans geliştirilebilir.
+
+## Linkler
+
+https://www.kaggle.com/code/cbcygn/butterfly-classification-cnn
