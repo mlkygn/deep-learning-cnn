@@ -45,4 +45,4 @@ Daha fazla veri artırma teknikleri kullanılarak performans geliştirilebilir.
 
 ## Linkler
 
-https://www.kaggle.com/code/cbcygn/butterfly-classification-cnn
+[https://www.kaggle.com/code/cbcygn/butterfly-classification-cnn](https://www.kaggle.com/code/cbcygn/butterfly-classification-cnn?scriptVersionId=264214204)
